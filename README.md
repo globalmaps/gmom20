@@ -9,7 +9,7 @@ Credit: "Global Map of Oman ©ISCGM/ Head of National Survey Authority, Oman"
 
 Contact: Head of National Survey Authority.
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/oman.png)
+E-mail: ![email](email.png)
 
 ## split files
 There are split files. In order to unsplit these files:
